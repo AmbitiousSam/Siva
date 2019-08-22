@@ -1,5 +1,6 @@
-R = int(input("Enter the number of rows:")) 
-C = int(input("Enter the number of columns:"))
+#python code for Matrix_Multiplication
+R = int(input("Enter the number of rows:")) #rowinsertion
+C = int(input("Enter the number of columns:")) #coloumninsertion
 matrix1 = [] 
 print("Enter the entries rowwise:")
 for i in range(R):
