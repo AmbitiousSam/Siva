@@ -1,4 +1,4 @@
-#python code for Matrix_Multiplication
+#python code for Matrix_Multi
 R = int(input("Enter the number of rows:")) #rowinsertion
 C = int(input("Enter the number of columns:")) #coloumninsertion
 matrix1 = [] 
